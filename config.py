@@ -5,7 +5,8 @@ import logging
 
 # import dotenv
 # dotenv.load_dotenv()
-
+# developed by @trinityXmods
+# do not remove credits
 
 
 from logging.handlers import RotatingFileHandler
